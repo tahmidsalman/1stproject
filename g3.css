@@ -1,0 +1,50 @@
+nav {
+    display: flex;
+
+}
+nav div {
+    margin-right: 20px;
+}
+.navand{
+    display: flex;
+    justify-content: space-between;
+    /* justify-content: ; */
+    align-items: center;
+}
+.sndtitle{
+    text-align: center;
+}
+.head_font{
+    font-size: 60px;
+}
+.head_pear{
+    padding-left: 500px;
+    padding-right: 500px;
+}
+.intro_sec{
+ 
+
+  }
+.colove{
+    background-color: #FFF4E7;
+
+}
+#banner{
+    /* margin-top: 20px;
+    margin-left: 500px; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 90px;
+    width: 50%;
+
+}
+.ex_button_div{
+    padding-top: 50px;
+}
+*{
+    margin: 0;
+}
+.ex_button{
+    padding: 20px;
+}
