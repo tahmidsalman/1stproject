@@ -48,3 +48,47 @@ nav div {
 .ex_button{
     padding: 20px;
 }
+.team{
+    display: flex;
+    /* margin-top: 100px; */
+    padding: 150px;
+}
+.teamImage{
+    /* width: 342px; */
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+
+    /* height: 342px; */
+}
+.teamCOnt{
+    padding: 200px;
+    font-size: larger;
+}
+.love_joy{
+
+/* padding: 100px; */
+padding-top:    100px;
+padding-bottom: 100px;
+padding-left: 200px;
+padding-right: 100px;
+    display: flex;
+    margin-left: 350px;
+  
+}
+.architect_image{
+    width: 60%;
+margin-left: 200px;
+    /* padding-right: 80PX; */
+}
+body { overflow-x:hidden; }
+.lovePara{
+    width: 20%;
+    gap: 100px;
+    padding: 100px;
+  /* padding-right: ; */
+   border-radius: 10%;
+   background: #FFF4E7;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+}
