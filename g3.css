@@ -41,12 +41,14 @@ nav div {
 }
 .ex_button_div{
     padding-top: 50px;
+    /* background-color: rgb(245, 149, 40); */
 }
 *{
     margin: 0;
 }
 .ex_button{
     padding: 20px;
+    background-color: rgb(245, 149, 40);
 }
 .team{
     display: flex;
@@ -77,18 +79,91 @@ padding-right: 100px;
   
 }
 .architect_image{
-    width: 60%;
+    width: 70%;
+    height: 150%ss;
 margin-left: 200px;
     /* padding-right: 80PX; */
 }
 body { overflow-x:hidden; }
-.lovePara{
-    width: 20%;
+.lovePara {
+    width: 30%;
     gap: 100px;
-    padding: 100px;
+    padding: 20px;
+    /* padding: 100px; */
   /* padding-right: ; */
-   border-radius: 10%;
-   background: #FFF4E7;
+   /* border-radius: 10%; */
+   background: #fcfaf7;
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
    
+}
+.card{
+/* height: ; */
+    width: 100%;
+    padding: 20px;
+    margin-top: 60px;
+    background: #fcfaf7;
+   box-shadow: 0 4px 8px 0 rgba(255, 254, 254, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  /* margin-top: 50px; */
+  /* padding: 60px; */
+}
+h5{
+    font-size: 25px;
+}
+.factsCard{
+    /* display: block; */
+    display: flex;
+    /* gap: 20px; */
+    padding: 100px;
+/* justify-content: flex-end;     */
+
+margin-left: 280px;
+
+}
+.facts_Card{
+    padding: 20px;
+    /* border-color: black; */
+   border: 10px;
+    border: #000000;
+    background-color: #FFF4E7;
+    margin-left: 20px;
+    width: 340px;
+    height: 340px;
+}
+.Head{
+    /* font-size: larger; */
+    font-size: 30px;
+    margin-left: 500px;
+}
+.factspera{
+    margin-left: 500px;
+    width: 25%;
+}
+.but_card{
+    padding: 40px;
+background-color: rgb(245, 149, 40);
+    position: relative;
+    width: 240px;
+    color: #fcfaf7;
+    margin-left: 150px;
+    left: -10px;
+    top: -80px;
+    
+}
+.but_card:hover{
+/* cursor: ; */
+
+cursor: pointer;
+}
+.but_card_div{
+}
+.lovePara_h{
+    margin-top: 40px;
+    /* margin-left: 30px; */
+    font-size: large;
+    /* border-left: 50px;
+    border-color: rgb(0, 0, 0); */
+    border-left: 5px solid #FF900E;
+
+
+    padding-left: 50px;
 }
